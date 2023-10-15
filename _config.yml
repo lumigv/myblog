@@ -28,7 +28,9 @@ twitter_username: lumigv
 github_username:  lumigv
 
 # Build settings
-theme: minima
+#CAMBIADO
+theme: minima 
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
