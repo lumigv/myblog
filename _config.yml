@@ -30,7 +30,7 @@ github_username:  lumigv
 # Build settings
 #CAMBIADO
 theme: minima 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
